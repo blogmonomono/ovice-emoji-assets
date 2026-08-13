@@ -12,13 +12,15 @@ oVice絵文字ピッカー拡張の同梱画像アセット置き場です。
 | フォルダ | 枚数 | 内容 |
 | --- | --- | --- |
 | `kiiro/` | 120 | 黄色いまるっとした絵文字 |
+| `kuma/` | 130 | くまの絵文字 |
+| `usagi/` | 130 | うさぎの絵文字 |
 
 ## 配信URL
 
 タグを打った時点の内容が、次の形のURLで読めます。
 
 ```
-https://cdn.jsdelivr.net/gh/blogmonomono/ovice-emoji-assets@v1/kiiro/emoji_001.png
+https://cdn.jsdelivr.net/gh/blogmonomono/ovice-emoji-assets@v2/kiiro/emoji_001.png
 ```
 
 `@v1` のようにタグで固定するとjsDelivr側にずっとキャッシュされるため、表示が速く、
